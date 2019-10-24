@@ -10,5 +10,5 @@
 <br/>
 <br/>
 
-**Télécharger Cunit :**<br/>
-> https://sourceforge.net/projects/cunit/files/
+**Télécharger et installer Cunit :**<br/>
+> télécharger les sources : https://sourceforge.net/projects/cunit/files/
