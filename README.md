@@ -17,7 +17,7 @@
 >- $ cd CUnit-2.1-2<br/>
 >- $ ./configure --prefix=$HOME/local<br/>
 >- $ make<br/>
->- $ make install <br/><br/>
+>- $ make install <br/>
 >
 >Dans ./.bashrc ajouter :<br/>
 >alias gcCunti='gcc -std=c89 -pedantic -Wall -Wextra -I${HOME}/local/include'
