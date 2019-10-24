@@ -6,7 +6,7 @@
 
 **Méthode canary :**<br/>
 >dans ./.bashrc ajouter :<br/>
->alias gccCanary='gcc -std=c89 -pedantic -Wall -Wextra -m32 -fstack-protector '
+>alias gccCanary='gcc -std=c89 -pedantic -Wall -Wextra -fno-stack-protector '
 <br/>
 <br/>
 
