@@ -19,7 +19,6 @@
 >- $ make<br/>
 >- $ make install <br/><br/>
 
-
 >Dans ./.bashrc ajouter :<br/>
 >alias gcCunti='gcc -std=c89 -pedantic -Wall -Wextra -I${HOME}/local/include'
 
