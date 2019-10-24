@@ -21,4 +21,4 @@
 > Dans ./.bashrc ajouter :<br/>
 >alias gcCunti='gcc -std=c89 -pedantic -Wall -Wextra -I${HOME}/local/include'
 
-**Pour plus d'informations sur Cunit voir ** [ici](https://sites.uclouvain.be/SystInfo/notes/Outils/html/cunit.html)
+**Pour plus d'informations sur Cunit voir** [ici](https://sites.uclouvain.be/SystInfo/notes/Outils/html/cunit.html)
