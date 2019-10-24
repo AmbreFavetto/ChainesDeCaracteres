@@ -17,4 +17,5 @@
 >$ cd CUnit-2.1-2<br/>
 >$ ./configure --prefix=$HOME/local<br/>
 >$ make<br/>
->$ make install<br/>
+$ make install<br/>
+>
