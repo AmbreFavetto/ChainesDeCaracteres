@@ -13,8 +13,8 @@
 **Télécharger et installer Cunit :**<br/>
 >télécharger les sources : https://sourceforge.net/projects/cunit/files/<br/>
 >**Ouvrir un cmd et taper :**<br/>
->   $ tar xjvf CUnit-2.1.2-src.tar.bz2<br/>
+>   `$ tar xjvf CUnit-2.1.2-src.tar.bz2<br/>
 >   $ cd CUnit-2.1-2<br/>
 >   $ ./configure --prefix=$HOME/local<br/>
 >   $ make<br/>
->   $ make install<br/>
+>   $ make install<br/>`
