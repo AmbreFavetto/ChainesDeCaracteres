@@ -1,7 +1,9 @@
 # ChainesDeCaracteres
 
-Projet Chaines de Caracteres, cf.Cahier des charges
+<h4> Projet Chaines de Caracteres, cf.Cahier des charges <h4>
 
-Méthode canary :<br/>
-dans ./.bashrc ajouter :<br/>
-alias gccCanary='gcc -std=c89 -pedantic -Wall -Wextra -m32 -fstack-protector '
+<br/>
+
+**Méthode canary :**<br/>
+>dans ./.bashrc ajouter :<br/>
+>alias gccCanary='gcc -std=c89 -pedantic -Wall -Wextra -m32 -fstack-protector '
