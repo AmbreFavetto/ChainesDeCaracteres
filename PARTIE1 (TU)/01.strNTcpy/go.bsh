@@ -1,0 +1,17 @@
+#!/bin/bash
+#	@(#)	go.bsh
+
+gcc -c strtnt.c  
+gcc -c printf_ret.c
+
+#set -vx
+for rep in 01*  02*
+do
+  cd $rep
+  nom=$(basename $(ls *.c) .c)
+  if [[ ! -f strtnt.h ]]
+    then ln ../strtnt.h .
+  fi
+  gcc -o $nom  $nom.c ../strtnt.o ../printf_ret.o  &&  $nom
+  cd ..
+done  
